@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, sono Giuseppe</h1>
-<h3 align="center">Un appassionato analista di dati dall'Italia</h3>
+<h3 align="center">Italian data analyst</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=peppepicode92&label=Profile%20views&color=0e75b6&style=flat" alt="peppepicode92" /> </p>
 
